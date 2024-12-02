@@ -1,4 +1,4 @@
-# DBMSL-mini-project
+# DBMSL-mini-project: Pet Management System
 ## Overview
 This project is part of the Database Management Systems Laboratory (DBMSL) coursework, showcasing the implementation of core database concepts through a practical application. The system demonstrates database creation, manipulation, and querying functionalities using SQL.
 
